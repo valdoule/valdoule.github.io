@@ -1,7 +1,6 @@
 ## Permaculture, Paysages et Environnement.
 
 Ce site pour permettre de presenter les activités de l'association.
-Bonjour Nad
 
 ### Markdown
 
